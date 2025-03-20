@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I’m currently learning🌱 
 <!--
 **2JChoi/2jchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
